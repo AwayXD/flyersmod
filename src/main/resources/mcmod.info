@@ -1,0 +1,16 @@
+[
+{
+  "modid": "flyutils",
+  "name": "FlyUtils",
+  "description": "subscribe to awayxd",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AwayXD, Flyers"],
+  "credits": "chatgpt lol",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
